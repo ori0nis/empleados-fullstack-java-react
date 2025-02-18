@@ -4,8 +4,6 @@ Sistema de Recursos Humanos is my very first attempt at React programming. It's 
 
 This project has made me see how much I love Angular/React programming and I've decided to make learning both my priority from now on. 
 
-This app was created following Ubaldo Acosta's lead during his "Universidad Java" masterclass.
-
 Technologies used include:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
